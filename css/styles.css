@@ -14,4 +14,22 @@ span{
 }
 #about{
   text-align: justify;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+#prof{
+  float:left;
+  margin:auto;
+}
+#work{
+  float:right;
+  margin: auto;
+}
+#lead{
+  float: left;
+  margin: auto;
+}
+#soma{
+  float: right;
+  margin: auto;
 }
