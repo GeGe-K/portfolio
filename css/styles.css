@@ -37,20 +37,20 @@ span{
   text-decoration: underline;
 }
 #prof{
-  float:left;
+  float:right;
   /* margin:auto; */
 }
-/* #work{
-  float:right;
-  margin: auto;
+#work{
+width: 700px;
+float: left;
 }
 #lead{
-  float: left;
-  margin: auto;
-} */
-#soma{
   float: right;
-  margin: auto;
+  width: 700px;
+}
+#soma{
+  float: left;
+  width: 700px;
 }
 #creation{
   text-align: center;
