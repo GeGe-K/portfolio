@@ -4,6 +4,13 @@ html{
   font-size: 1.3em;
   padding: 20px;
 }
+nav>ul>li{
+  flex-direction:column;
+  display: flex;
+  padding: 10px;
+  text-align: right;
+  display: inline-block;
+}
 header{
   text-align: left;
   font-style: italic;
@@ -25,9 +32,13 @@ span{
   margin-right: 5%;
   padding: 5px;
 }
+#cv{
+  text-align: center;
+  text-decoration: underline;
+}
 #prof{
   float:left;
-  margin:auto;
+  /* margin:auto; */
 }
 #work{
   float:right;
@@ -46,11 +57,4 @@ span{
 }
 #intouch{
   text-align: justify;
-}
-nav>ul>li{
-  flex-direction:column;
-  display: flex;
-  padding: 10px;
-  text-align: right;
-  display: inline-block;
 }
