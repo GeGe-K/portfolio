@@ -11,6 +11,9 @@ header{
 }
 #photo{
   float: left;
+  width: 100%;
+  height: auto;
+}
 }
 span{
   font-style: italic;
