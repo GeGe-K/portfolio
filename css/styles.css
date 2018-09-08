@@ -11,8 +11,9 @@ header{
 }
 #photo{
   float: left;
-  width: 100%;
-  height: auto;
+  margin-right: 5%;
+  /* width: 100%;
+  height: auto; */
 }
 }
 span{
@@ -20,7 +21,7 @@ span{
 }
 #about{
   text-align: center;
-  margin-left: 15%;
+  margin-left: 25%;
   margin-right: 5%;
   padding: 5px;
 }
