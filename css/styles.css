@@ -2,6 +2,7 @@ html{
   background-color:#a8a6a5;
   font-family: cursive;
   font-size: 1.3em;
+<<<<<<< HEAD
   padding: 20px;
 }
 nav>ul>li{
@@ -22,10 +23,16 @@ header{
   /* width: 100%;
   height: auto; */
 }
+=======
+}
+#photo{
+  float: left;
+>>>>>>> 4f4c3e286aab4939600c09b0ad8042de9b7a099b
 }
 span{
   font-style: italic;
 }
+<<<<<<< HEAD
 #about{
   text-align: center;
   margin-left: 25%;
@@ -60,3 +67,5 @@ float: left;
   text-align: center;
   font-style: oblique;
 }
+=======
+>>>>>>> 4f4c3e286aab4939600c09b0ad8042de9b7a099b
