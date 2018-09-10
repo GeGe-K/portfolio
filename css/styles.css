@@ -52,9 +52,11 @@ float: left;
   float: left;
   width: 700px;
 }
-#creation{
+#proj{
   text-align: center;
+  text-decoration: underline;
 }
 #intouch{
-  text-align: justify;
+  text-align: center;
+  font-style: oblique;
 }
