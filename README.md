@@ -3,7 +3,11 @@
 #### By *Gloria Givondo*
 ## Description
 Its a website showing my educational background, experience, skills, hobbies, why I chose programming, and some of the projects I have been working on.
+<<<<<<< HEAD
 ## Installation Requirements
+=======
+## Installation Requirements 
+>>>>>>> gh-portfolio
 Git
 ### Installation instruction
 Git clone
