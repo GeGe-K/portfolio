@@ -2,10 +2,70 @@ html{
   background-color:#a8a6a5;
   font-family: cursive;
   font-size: 1.3em;
+<<<<<<< HEAD
+  padding: 20px;
+}
+nav>ul>li{
+  flex-direction:column;
+  display: flex;
+  padding: 10px;
+  text-align: right;
+  display: inline-block;
+}
+header{
+  text-align: left;
+  font-style: italic;
+  margin-left: 10px;
 }
 #photo{
   float: left;
+  margin-right: 5%;
+  /* width: 100%;
+  height: auto; */
+}
+=======
+}
+#photo{
+  float: left;
+>>>>>>> 4f4c3e286aab4939600c09b0ad8042de9b7a099b
 }
 span{
   font-style: italic;
 }
+<<<<<<< HEAD
+#about{
+  text-align: center;
+  margin-left: 25%;
+  margin-right: 5%;
+  padding: 5px;
+}
+#cv{
+  text-align: center;
+  text-decoration: underline;
+}
+#prof{
+  float:right;
+  /* margin:auto; */
+}
+#work{
+width: 700px;
+float: left;
+}
+#lead{
+  float: right;
+  width: 700px;
+}
+#soma{
+  float: left;
+  width: 700px;
+}
+#proj{
+  text-align: center;
+  text-decoration: underline;
+}
+#intouch{
+  text-align: center;
+  font-style: oblique;
+}
+=======
+>>>>>>> 4f4c3e286aab4939600c09b0ad8042de9b7a099b
